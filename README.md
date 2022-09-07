@@ -1,7 +1,5 @@
 # Blurry-Background-Image
-Source Code and File Image  Blurry Background Image
-
-#HTML #CSS
+Source Code and File Image  Blurry Background Image use html & css
 
 Preview : 
 
